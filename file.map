@@ -1,0 +1,28 @@
+Fld Rex Name                 Type      Off Reserved     Flags
+  1  0  Na&me                string      0              Relative
+  2 16  &Business            phone       2              Relative
+  3 17  H&ome                phone       4              Relative
+  4 24  &Alternate           phone       6              Relative
+  5 19  Fa&x                 phone       8              Relative
+  6  3  T&itle               string     10              Relative
+  7  1  Cate&gory            category   12 CatRec=0     Relative
+  8  2  Com&pany             string     14              Relative
+  9 18  &e-mail              string     16              Relative
+ 10  4  Address&1            string     18              Relative
+ 11  5  Address&2            string     20              Relative
+ 12  6  &City                string     22              Relative
+ 13  7  Sta&te               string     24              Relative
+ 14  8  &Zip                 string     26              Relative
+ 15 27  &Note                note       28             
+
+Categories:
+  Business
+  Hotel
+  Doctors
+  Indian Princess
+  Building
+  Ham
+  Family
+  Computer
+  Movies
+  Indian Guides
